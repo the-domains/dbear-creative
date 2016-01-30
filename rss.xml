@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dbear creative]]></title>
         <description><![CDATA[dbear creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dbear-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 06:35:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 06:41:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dbear-creative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a5907a-d66a-47d1-ad47-5414dd2f4c38.jpg">]]></description>
+            <link>https://thegrid.ai/dbear-creative/427a5c9b-95d4-4d7f-9b0e-7e6ee5248640/index.html</link>
+            <guid isPermaLink="false">427a5c9b-95d4-4d7f-9b0e-7e6ee5248640</guid>
+            <pubDate>Sat, 30 Jan 2016 06:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f266c2ba-d3d9-417d-8a35-bc51ceec6d0b.JPG">]]></description>
-            <link>undefinedaffab7bb-8a10-49f4-bd7e-1617663844af/index.html</link>
+            <link>https://thegrid.ai/dbear-creative/affab7bb-8a10-49f4-bd7e-1617663844af/index.html</link>
             <guid isPermaLink="false">affab7bb-8a10-49f4-bd7e-1617663844af</guid>
             <pubDate>Sat, 30 Jan 2016 06:34:20 GMT</pubDate>
         </item>
